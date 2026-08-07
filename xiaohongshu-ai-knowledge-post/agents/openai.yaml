@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书 AI 知识图文"
+  short_description: "策划验证并生成统一手绘风的小红书AI知识图文笔记"
+  default_prompt: "使用 $xiaohongshu-ai-knowledge-post，把我的AI关键词或素材整理成经过核验的小红书知识图文方案。"
